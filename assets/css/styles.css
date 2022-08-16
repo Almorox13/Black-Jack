@@ -1,0 +1,12 @@
+html, body {
+    margin: 0px;
+    background-color: #2F4F30;
+    color: aliceblue;
+}
+.title {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px;
+}
